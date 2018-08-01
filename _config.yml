@@ -8,5 +8,3 @@ github_username: sycho0311
 # Build Settings
 markdown: kramdown
 theme: minima
-
-plugins: jekyll-feed
