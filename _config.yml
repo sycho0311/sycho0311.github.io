@@ -1,0 +1,10 @@
+# Basic Options
+title: sycho's github blog
+author: CHO SUNGYOON
+email: sycho0311@gmail.com
+description: sycho's development site
+github_username: sycho0311
+
+# Build Settings
+markdown: kramdown
+theme: minima
