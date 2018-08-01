@@ -9,4 +9,4 @@ github_username: sycho0311
 markdown: kramdown
 theme: minima
 
-plugins: - jekyll-feed
+plugins: jekyll-feed
