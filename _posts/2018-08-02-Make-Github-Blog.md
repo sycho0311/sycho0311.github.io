@@ -12,12 +12,14 @@ Algorithm, Spring Framework 등 전공 관련 자료를 한 곳에 모아서 정
 
 ![new_repository](/images/Make_Github_Blog_1.png)
 <br/>
+
 자신의 Github 계정으로 로그인 한 뒤에 새로운 Repository를 생성한다.
 
 ### 2. Github 이름 정하기
 
 ![naming_github](/images/Make_Github_Blog_2.png)
 <br/>
+
 만들고자 하는 Github Blog의 이름을 정한다. *user_id.github.io* 각자 자신의 아이디 뒤에 .github.io를 붙여주길 바란다.
 추가로 시작할 때 readme.md 파일을 자동으로 생성해 주는 것에 대해 체크를 하였다.
 
@@ -25,12 +27,14 @@ Algorithm, Spring Framework 등 전공 관련 자료를 한 곳에 모아서 정
 
 ![config_settings](/images/Make_Github_Blog_3.png)
 <br/>
+
 create repository를 누르게 되면 다음 화면이 나올 것이다. 위의 상단에 Settings를 눌러 이동해보자.
 
 ### 4. 주소 확인 및 branch 설정하기
 
 ![config_branch](/images/Make_Github_Blog_4.png)
 <br/>
+
 Settings에서 중간쯤 내려가다 보면 Github Pages라는 화면이 보일텐데 그곳에 자신의 블로그 주소를 볼 수 있을 것이다.
 또한, **master branch**로 수정한 뒤에 save 버튼을 누르도록 하자.
 
@@ -38,6 +42,7 @@ Settings에서 중간쯤 내려가다 보면 Github Pages라는 화면이 보일
 
 ![checking_github](/images/Make_Github_Blog_5.png)
 <br/>
+
 방금 확인 한 주소를 통해 자신의 블로그로 이동해보도록 하자. readme.md 파일에 적혀 있는 내용이 보여질 것이다.
 이제 자신만의 Github Blog를 생성하였으니 수정하고, 글을 올려보도록 하자.
 
@@ -45,12 +50,14 @@ Settings에서 중간쯤 내려가다 보면 Github Pages라는 화면이 보일
 
 ![creat_new_file](/images/Make_Github_Blog_6.png)
 <br/>
+
 그림에서와 같이 **Create new file** 버튼을 눌러 새로운 파일을 생성해주자. 환경 설정 파일을 생성한다고 이해하면 좋을 것 같다.
 
 ### 7. _config.yml 파일 생성하기
 
 ![make_config.yml](/images/Make_Github_Blog_7.png)
 <br/>
+
 > Basic Option과 Build Setting 둘로 나눠서 접근을 해보면, Basic Option에는 Blog에 적을 자신의 정보를 나타낸다.
 > Build Setting이 Github Blog를 설정하는 것을 나타내는 것인데, theme는 화면에 보여질 구조나 틀을 말하고 markdown은 posting을 어떠한 방식으로 할 것인지를 말하는 것이다.
 
@@ -83,6 +90,7 @@ readme.md 파일에 작성된 내용을 지웠다. 수정하는 방법은 가장
 
 ![add_post](/images/Make_Github_Blog_13.png)
 <br/>
+
 > Create new file을 눌어 반드시 **_posts** / **YYYY-MM-DD-Post.md** 형식으로 글을 작성하도록 한다.
 > 또한, 아래 형식에 있어서 layout을 post로 작성해야 한다. title은 작성하는 글의 제목이라고 생각하면 좋다. 그 밑으로 자신이 작성하고 싶은 내용의 글을 작성하면 된다.
 
