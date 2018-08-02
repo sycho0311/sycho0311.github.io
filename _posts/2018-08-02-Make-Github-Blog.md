@@ -105,4 +105,5 @@ readme.md 파일에 작성된 내용을 지웠다. 수정하는 방법은 가장
 
 계속해서 이런 방식으로 글을 작성한다면 매우 불편하다고 느낄 수 있을 것이다. 따라서 글을 작성하는 방법과 요령에 대해 다음 포스팅에서 설명하는 시간을 갖도록 하겠다.
 
-### 참고 ![evanwill](/https://evanwill.github.io/go-go-ghpages/)
+### 참고 
+<https://evanwill.github.io/go-go-ghpages/>
