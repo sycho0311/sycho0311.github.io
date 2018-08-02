@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make Github Blog 깃허브 블로그 만들기
+title: Make a Github Blog 깃허브 블로그 만들기
 tags:   [Git, Blog, Github, Github.io]
 ---
 
@@ -28,7 +28,7 @@ Algorithm, Spring Framework 등 전공 관련 자료를 한 곳에 모아서 정
 ![config_settings](/images/Make_Github_Blog_3.png)
 <br/>
 
-create repository를 누르게 되면 다음 화면이 나올 것이다. 위의 상단에 Settings를 눌러 이동해보자.
+create repository를 누르게 되면 다음 화면이 나올 것이다. 위의 상단에 **Settings**를 눌러 이동해보자.
 
 ### 4. 주소 확인 및 branch 설정하기
 
@@ -69,7 +69,7 @@ Settings에서 중간쯤 내려가다 보면 Github Pages라는 화면이 보일
 ![check_config.yml](/images/Make_Github_Blog_9.png)
 <br/>
 
-_config.yml 파일이 추가된 것을 확인해 볼 수 있을 것이다.
+*_config.yml* 파일이 추가된 것을 확인해 볼 수 있을 것이다.
 
 ### 8. 글 올리기 및 수정하기
 
