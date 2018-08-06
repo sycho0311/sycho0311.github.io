@@ -9,6 +9,7 @@ github_username: sycho0311
 markdown: kramdown
 theme: minima
 
+disqus: True
 disqus_url: https://sycho0311.github.io/
 disqus_id: https-sycho0311-github-io
 
