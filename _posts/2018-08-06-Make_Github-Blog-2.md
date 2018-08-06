@@ -18,7 +18,7 @@ Github 블로그 만들기 1편에 이어서 이번에는 나만의 Github Blog�
 ![new_repository](/images/Make_Github_Blog/Make_Github_Blog_18.png)
 <br/>
 
-압축을 푼 상태에서 해당 폴더에 들어가 보면 자신이 작성한 파일들을 볼 수 있을 것이다. 여기서 이제 우리는 글을 작성하면 *_post* 폴더 안에 넣어주고, Github Blog의 정보와 글을 담고 있는 github 주소에 그 결과를 반영하면 되겠다. 자신의 컴퓨터에 Github Blog의 정보와 글을 담고 있는 것을 **local 저장소**라고 할 수 있고, 해당 github 주소를 **remote 저장소**라고 할 수 있다.
+압축을 푼 상태에서 해당 폴더에 들어가 보면 자신이 작성한 파일의 목록을 볼 수 있을 것이다. 이곳에 있는 *_post* 폴더 안에서 글을 작성 및 수정하고, Github Blog의 정보와 글을 담고 있는 github 주소에 그 결과를 반영하면 되겠다. 자신의 컴퓨터에 Github Blog의 정보와 글을 담고 있는 파일을 **local 저장소**라고 할 수 있고, 해당 github 주소를 **remote 저장소**라고 할 수 있다.
 
 ### 2. 글 작성 및 수정하기
 
@@ -46,7 +46,11 @@ Visual Studio Code를 실행하면 가장 먼저 볼 수 있는 화면이다. �
 ![new_repository](/images/Make_Github_Blog/Make_Github_Blog_22.png)
 <br/>
 
-7번째 라인에 글을 추가하였다. 이제 수정된 사항에 대해서 **remote 저장소**에도 반영을 하여 Github Blog에 변경 사항을 적용시켜 보도록 하자.
+7번째 라인에 글을 추가하였다.
+
+### 3. Remote 원격 저장소에 Push, 변경사항 반영하기
+
+이제 수정된 사항에 대해서 **remote 저장소**에도 반영을 하여 자신의 Github Blog에 변경 사항을 적용시켜 보도록 하자.
 가장 먼저 **local 저장소**에 변경사항을 add 해야 한다.
 
 ![new_repository](/images/Make_Github_Blog/Make_Github_Blog_23.png)
@@ -55,7 +59,7 @@ Visual Studio Code를 실행하면 가장 먼저 볼 수 있는 화면이다. �
 ![new_repository](/images/Make_Github_Blog/Make_Github_Blog_24.png)
 <br/>
 
-그 뒤 두번째로 commit을 해주도록 하고, 마지막으로는 **remote 저장소**에 push한다. 
+그 뒤 두번째로 commit을 해주도록 하고, 마지막으로는 **remote 저장소**에 push를 해야 한다.
 
 ![new_repository](/images/Make_Github_Blog/Make_Github_Blog_25.png)
 <br/>
@@ -63,6 +67,6 @@ Visual Studio Code를 실행하면 가장 먼저 볼 수 있는 화면이다. �
 ![new_repository](/images/Make_Github_Blog/Make_Github_Blog_26.png)
 <br/>
 
-게시한 첫번째 글에 방금 작성한 글이 추가 되고 반영이 되는 것을 확인 할 수 있다. 이렇게 github 사이트에서 글을 작성하는 것에 불편함을 겪었던 것을 **local 저장소**로 내가 작성하는 글을 *Clone*하여 가져온 뒤에, 글을 작성하거나 수정하여 **remote 저장소**에 반영한다면 지난번에 겪었던 어려움과 불편함을 굉장히 많이 해소 할 수 있을 거라 생각한다.
+게시한 첫번째 글에 방금 작성한 글이 추가 되고 반영이 되는 것을 확인 할 수 있다. 이렇게 github 사이트에서 직접 글을 작성하게 되면 생기는 불편함을 **local 저장소**로 *Clone*하여 가져온 뒤에, 글을 작성하거나 수정하여 다시 **remote 저장소**에 반영한다면 지난번에 겪었던 어려움과 불편함을 굉장히 많이 해소 할 수 있을 거라 생각한다.
 
 마지막으로 다음에는 markdown의 사용법을 통하여 글을 작성하는 요령에 대해 알아보도록 하겠다.
