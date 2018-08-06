@@ -4,7 +4,7 @@ title: Make a Github Blog 깃허브 블로그 만들기 -1
 tags:   [Git, Blog, Github, Github.io]
 ---
 
-# Github 블로그 만들기 -1
+# Github Blog 만들기 -1
 
 Algorithm, Spring Framework 등 전공 관련 자료를 한 곳에 모아서 정리해야 할 필요성을 느끼던 도중, Github Blog에 대한 인지와 함께 매우 유용하다는 생각을 하게 되었다. Github Blog를 어떻게 시작하고 운영해야 하는 지에 대해 살펴보았으나 대부분의 사람들이 *Mac*이나 *Linux* 운영체제를 바탕으로 Github Blog를 만들고, 글을 올리는 방법에 대해 게시해 놓았기에 누구나 쉽게 **Windows** 운영체제에서 Github Blog를 만들고 글을 올리는 방법에 대한 포스팅을 해보려 한다.
 
