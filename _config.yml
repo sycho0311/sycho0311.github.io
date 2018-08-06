@@ -2,8 +2,11 @@
 title: sycho's github blog
 author: CHO SUNGYOON
 email: sycho0311@gmail.com
-description: sycho's development site
+description: sycho's development blog
 github_username: sycho0311
+url: https://sycho0311.github.io/
+disqus: True
+disqus_shortname: https-sycho0311-github-io
 
 # Build Settings
 markdown: kramdown
