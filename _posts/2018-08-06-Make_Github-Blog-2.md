@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Make a Github Blog 깃허브 블로그 만들기 -1
+title: Make a Github Blog 깃허브 블로그 만들기 -2
 tags:   [Git, Blog, Github, Github.io]
 ---
 
 # Github 블로그 만들기 -2
 
-Github 블로그 만들기 1편에 이어서 이번에는 나만의 github.io 블로그에 글을 효율적이며 쉽게 글을 작성하고, 관리하는 방법에 대해서 포스팅을 해보도록 하겠다.
+Github 블로그 만들기 1편에 이어서 이번에는 나만의 Github Blog에 효율적이고 쉽게 글을 작성하고, 관리하는 방법에 대해서 포스팅을 해보도록 하겠다.
 
 ### 1. 나만의 Github.io 블로그 Clone하기
 
