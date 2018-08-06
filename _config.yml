@@ -8,3 +8,7 @@ github_username: sycho0311
 # Build Settings
 markdown: kramdown
 theme: minima
+
+disqus_url: https://sycho0311.github.io/
+disqus_id: https-sycho0311-github-io
+
