@@ -18,9 +18,10 @@ Github 블로그 만들기 1편에 이어서 이번에는 나만의 Github Blog�
 ![new_repository](/images/Make_Github_Blog/Make_Github_Blog_27.png)
 <br/>
 
-> 물론 이 방법 이외에도 cmd 창이나 다음에 설명할 *Visual Studio Code* 편집기를 이용하여 Clone하는 방법 또한 존재한다. 명령어는 다음과 같다.
-` git clone https://github.com/sycho0311/sycho0311.github.io.git `
+> 물론 이 방법 이외에도 cmd 창이나 다음에 설명할 *Visual Studio Code* 편집기를 이용하여 Clone하는 방법 또한 존재한다. 명령어는 아래와 같다.
 > clone 이후에 자신의 github URL을 copy하여 붙여넣길 바란다.
+
+` git clone https://github.com/sycho0311/sycho0311.github.io.git `
 
 clone 이전에 해야할 작업들(명령어)에 대해서 간단하게 집고 넘어가도록 하겠다.
 ```
