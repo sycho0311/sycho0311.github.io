@@ -98,5 +98,5 @@ git push -u origin master
 
 마지막으로 다음에는 markdown의 사용법을 통하여 글을 작성하는 요령에 대해 알아보도록 하겠다.
 
-## 
+## 참고
 <https://pages.github.com>
