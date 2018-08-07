@@ -32,7 +32,7 @@ git init
 ![new_repository](/images/Make_Github_Blog/Make_Github_Blog_18.png)
 <br/>
 
-압축을 푼 상태에서 해당 폴더에 들어가 보면 자신이 작성한 파일의 목록을 볼 수 있을 것이다. 이곳에 있는 *_post* 폴더 안에서 글을 작성 및 수정하고, Github Blog의 정보와 글을 담고 있는 github 주소에 그 결과를 반영하면 되겠다. 자신의 컴퓨터에 Github Blog의 정보와 글을 담고 있는 파일을 **local 저장소**라고 할 수 있고, 해당 github 주소를 **remote 저장소**라고 할 수 있다.
+압축을 푼 상태에서 해당 폴더에 들어가 보면 자신이 작성한 파일의 목록을 볼 수 있을 것이다. 이곳에 있는 *_posts* 폴더 안에서 글을 작성 및 수정하고, Github Blog의 정보와 글을 담고 있는 github 주소에 그 결과를 반영하면 되겠다. 자신의 컴퓨터에 Github Blog의 정보와 글을 담고 있는 파일을 **local 저장소**라고 할 수 있고, 해당 github 주소를 **remote 저장소**라고 할 수 있다.
 
 ### 2. 글 작성 및 수정하기
 
