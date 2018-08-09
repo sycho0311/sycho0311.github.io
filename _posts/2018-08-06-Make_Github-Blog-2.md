@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Make a Github Blog 깃허브 블로그 만들기 -2
+title: Make a Github Blog on Windows -2
 tags:   [Git, Blog, Github, Github.io]
 ---
 
-# Github Blog 만들기 -2
+# Windows 운영체제에서 Github Blog 만들기 -2
 
 Github 블로그 만들기 1편에 이어서 이번에는 나만의 Github Blog에 효율적이고 쉽게 글을 작성하고, 관리하는 방법에 대해서 포스팅을 해보도록 하겠다.
 
