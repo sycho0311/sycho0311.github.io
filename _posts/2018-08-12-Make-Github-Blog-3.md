@@ -36,7 +36,7 @@ Github 블로그 만들기 2편에 이어서 이번에는 markdown의 사용법�
 ```
 > Block Quote
 
-#### 1.3 List
+#### 1.3 List & Number
 
 ```
 List:
@@ -46,6 +46,15 @@ List:
 List:
 - First Name
 - Last Name
+***
+```
+Number:
+1. Github
+2. Blog
+```
+Number:
+1. Github
+2. Blog
 
 #### 1.4 Writing Style
 
