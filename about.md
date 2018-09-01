@@ -1,3 +1,3 @@
 ---
-title: sycho
+title: Cho Sungyoon
 ---
