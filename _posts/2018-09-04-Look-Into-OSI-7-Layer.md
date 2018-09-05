@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Look into the OSI 7 Layer
-tags:   [OSI, OSI 7 layer]
+title: Look into the OSI 7 Layers
+tags:   [OSI, OSI 7 layers]
 ---
 
-# OSI 7 Layer 살펴보기
+# OSI 7 Layers 살펴보기
 
-이번 포스팅에서는 **OSI 7계층 모형(Open Systems Interconnection Reference Model)**에 대해서 알아보는 시간을 갖도록 하겠다. Web Application을 개발하는 데 있어서 OSI 7 Layer를 알고, 어떤 식으로 동작하는 지에 대해 이해하는 것이 필요하다는 생각에 이번 기회를 통해 정리해보도록 하겠다. 컴퓨터공학 전공자라면 한번쯤은 OSI 7계층 모형에 대해 들어보았지만 막상 설명하기는 어려운 개념이라고 할 수 있다. OSI 7계층에 대해 알고는 있지만 확실하게 개념이 확립되지 않은 분들이 이 글을 통해 각자 나름의 정리가 되었으면 한다.
+이번 포스팅에서는 **OSI 7계층 모형(Open Systems Interconnection Reference Model)**에 대해서 알아보는 시간을 갖도록 하겠다. Web Application을 개발하는 데 있어서 OSI 7 Layers를 알고, 어떤 식으로 동작하는 지에 대해 이해하는 것이 필요하다는 생각에 이번 기회를 통해 정리해보도록 하겠다. 컴퓨터공학 전공자라면 한번쯤은 OSI 7계층 모형에 대해 들어보았지만 막상 설명하기는 어려운 개념이라고 할 수 있다. OSI 7계층에 대해 알고는 있지만 확실하게 개념이 확립되지 않은 분들이 이 글을 통해 각자 나름의 정리가 되었으면 한다.
 
 ### 1. OSI 7계층 모델
 
