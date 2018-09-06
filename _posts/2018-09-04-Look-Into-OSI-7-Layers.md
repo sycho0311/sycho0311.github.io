@@ -71,7 +71,7 @@ Router를 통해 데이터의 전송 경로를 결정한다. 각각의 호스트
 ![new_repository](/images/Look_Into_OSI_7_Layers/Look_Into_OSI_7_Layers_6.png)
 <br/>
 
-> 웹 페이지의 URL이 http에서 https로의 변환하는 이유 중의 하나로써, *HTTPS(HyperText Transfer Protocol over Secure Socket Layer, HTTP over TLS, HTTP over SSL, HTTP Secure)*는 웹 통신 프로토콜인 HTTP의 보안이 강화된 버전이다. HTTPS는 소켓 통신에서 일반 텍스트를 이용하는 대신에, SSL이나 TLS 프로토콜을 통해 세션 데이터를 암호화한다. 따라서 POST 메소드 방식으로 데이터를 전송 및 요청한 내용인 <<body>> 부분을 암호화하여, Key값을 알고 있는 사람만이 데이터를 볼 수 있도록 하였다.
+> 웹 페이지의 URL이 http에서 https로의 변환하는 이유 중의 하나로써, *HTTPS(HyperText Transfer Protocol over Secure Socket Layer, HTTP over TLS, HTTP over SSL, HTTP Secure)*는 웹 통신 프로토콜인 HTTP의 보안이 강화된 버전이다. HTTPS는 소켓 통신에서 일반 텍스트를 이용하는 대신에, SSL이나 TLS 프로토콜을 통해 세션 데이터를 암호화한다. 따라서 POST 메소드 방식으로 데이터를 전송 및 요청한 내용인 <body> 부분을 암호화하여, Key값을 알고 있는 사람만이 데이터를 볼 수 있도록 하였다.
 
 ### 9. Application Layer 응용 계층
 
