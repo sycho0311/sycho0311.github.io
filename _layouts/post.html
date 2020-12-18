@@ -2,7 +2,9 @@
 layout: default
 ---
 <head>
-	{% include google_adsense.html %}
+{% if site.google_adsense_client %}
+  {% include google_adsense.html %}
+{% endif %}
 </head>
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
